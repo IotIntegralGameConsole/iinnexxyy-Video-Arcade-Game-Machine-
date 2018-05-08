@@ -14,3 +14,21 @@ https://developer.amd.com/resources/developer-guides-manuals/
 
 AMD - Yocto
 https://www.yoctoproject.org/members/amd/
+
+----------------------------------------
+Support Various OS
+Main OS
+Yocto Project
+
+Else OS
+Tizen
+WebOS
+Fedora
+Montavista
+
+IoT / Cloud
+FreeRTOS
+ARM Mbed OS
+
+Distrowatch - use BSD Linux OS 
+https://distrowatch.com/
