@@ -93,7 +93,6 @@ Distrowatch - use BSD Linux OS
 
 https://distrowatch.com/
 
--------------------------------------------
 
 --------------------------------------
 [Open Source VLSI Layout Tool for SoC Design]
