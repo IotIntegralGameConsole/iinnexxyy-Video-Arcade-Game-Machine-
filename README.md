@@ -94,6 +94,22 @@ Distrowatch - use BSD Linux OS
 https://distrowatch.com/
 
 -------------------------------------------
+
+--------------------------------------
+[Open Source VLSI Layout Tool for SoC Design]
+
+Magic VLSI Layout Tool
+
+http://opencircuitdesign.com/magic/
+
+--------------------------------------
+
+[Open Source PCB Design Tool for PCB Design]
+
+http://kicad-pcb.org/
+
+--------------------------------------
+
 ![iinnexxyy logo](https://user-images.githubusercontent.com/25099776/39740374-4a2881b8-52d0-11e8-8755-98228d969bcf.png)
 
 
