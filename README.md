@@ -82,7 +82,9 @@ https://www.tizen.org/bsd-3-clause-license?langredirect=1
 
 https://git.tizen.org/cgit/
 
-WebOS
+WebOS Open Source Edition - Apache License 2.0
+
+http://webosose.org/
 
 Fedora
 
