@@ -42,6 +42,10 @@ ARM DesignStart (IoT / Cloud Processor Development Based Cortex M0 / Cortex M3)
 
 https://developer.arm.com/products/designstart
 
+ARM Custom SoCs
+
+https://www.arm.com/develop/custom-system-on-chips
+
 Bootlin
 
 https://bootlin.com/
