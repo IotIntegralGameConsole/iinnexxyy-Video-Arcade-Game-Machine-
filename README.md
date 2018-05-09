@@ -51,6 +51,10 @@ Else OS
 
 Tizen
 
+Tizen - Bsd 3 Clause / MIT License Version 
+
+https://www.tizen.org/bsd-3-clause-license?langredirect=1
+
 WebOS
 
 Fedora
