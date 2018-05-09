@@ -48,7 +48,19 @@ https://bootlin.com/
 Linux Driver Source Test - Bootlin
 
 https://elixir.bootlin.com/linux/v4.17-rc4/source/drivers/video/hdmi.c
+
 ----------------------------------------
+
+**We follow Yocto Project
+
+https://www.yoctoproject.org/
+
+https://wiki.yoctoproject.org/wiki/Main_Page
+
+https://git.yoctoproject.org/
+
+----------------------------------------
+
 Support Various OS
 
 Main OS
@@ -62,6 +74,8 @@ Tizen
 Tizen - Bsd 3 Clause / MIT License Version 
 
 https://www.tizen.org/bsd-3-clause-license?langredirect=1
+
+https://git.tizen.org/cgit/
 
 WebOS
 
