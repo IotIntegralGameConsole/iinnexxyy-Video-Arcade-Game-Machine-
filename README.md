@@ -109,7 +109,7 @@ http://kicad-pcb.org/
 
 --------------------------------------
 
-![iinnexxyy logo](https://user-images.githubusercontent.com/25099776/39740374-4a2881b8-52d0-11e8-8755-98228d969bcf.png)
+![iinnexxyy trandmark symbol logo 1](https://user-images.githubusercontent.com/25099776/39825176-266614bc-53ec-11e8-9e9b-cd7918d55906.png)
 
 
 
