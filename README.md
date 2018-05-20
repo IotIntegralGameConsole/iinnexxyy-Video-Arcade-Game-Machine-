@@ -132,7 +132,7 @@ http://layers.openembedded.org/layerindex/branch/master/layers/
 
 [BIOS]
 
-CoreBoot (GPL License]
+CoreBoot (GPL License)
 
 https://coreboot.org/downloads.html
 
