@@ -197,6 +197,20 @@ https://www.snapeda.com/home/
 
 --------------------------------------
 
+[DIY PCB BY Open Source Hardware]
+
+OSH PARK
+
+https://oshpark.com/
+
+--------------------------------------
+
+[DIY BGA Chip Stencil BY Open Source Hardware]
+
+https://www.oshstencils.com/
+
+--------------------------------------
+
 ![iinnexxyy trandmark symbol logo 1](https://user-images.githubusercontent.com/25099776/39825176-266614bc-53ec-11e8-9e9b-cd7918d55906.png)
 
 
