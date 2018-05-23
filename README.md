@@ -1,4 +1,9 @@
 # iinnexxyy-Video-Arcade-Game-Machine-
+
+IINNEXXYY Video Arcade Game Machine by Nurgakivi Lab, Estonia
+
+This powered by BSD-3 Clause / MIT License Version Licensed 2018
+
 IINNEXXYY is the Video Arcade Game Machine by Code Name "Nurgakivi" Project
 
 **Same SoC Architecture like Integral Game Console** 
